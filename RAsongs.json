@@ -1,0 +1,912 @@
+[
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+            },
+            "href": "https://api.spotify.com/v1/albums/6E7Awtyx6opYTbPXx6ApzB",
+            "id": "6E7Awtyx6opYTbPXx6ApzB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f79b1ab5cd74db6a2d7c1fda",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f79b1ab5cd74db6a2d7c1fda",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f79b1ab5cd74db6a2d7c1fda",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "PLAYA SATURNO",
+            "release_date": "2023-07-07",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:6E7Awtyx6opYTbPXx6ApzB"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197052,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USSD12300302"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2kz1YOhJiNubjigR1gB1VX",
+        "id": "2kz1YOhJiNubjigR1gB1VX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "DILUVIO",
+        "popularity": 90,
+        "preview_url": "https://p.scdn.co/mp3-preview/740dfd7578fe9e226de6757a878cca37f4954ff0?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5XJDexmWFLWOkjOEjOVX3e",
+                    "id": "5XJDexmWFLWOkjOEjOVX3e",
+                    "name": "Eladio Carrion",
+                    "type": "artist",
+                    "uri": "spotify:artist:5XJDexmWFLWOkjOEjOVX3e"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+            },
+            "href": "https://api.spotify.com/v1/albums/2zE9RJSh5sMV0NJ8Oc8k5s",
+            "id": "2zE9RJSh5sMV0NJ8Oc8k5s",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ec105eaf625391e95540ba97",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ec105eaf625391e95540ba97",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Sol María",
+            "release_date": "2024-01-19",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:2zE9RJSh5sMV0NJ8Oc8k5s"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+                },
+                "href": "https://api.spotify.com/v1/artists/5XJDexmWFLWOkjOEjOVX3e",
+                "id": "5XJDexmWFLWOkjOEjOVX3e",
+                "name": "Eladio Carrion",
+                "type": "artist",
+                "uri": "spotify:artist:5XJDexmWFLWOkjOEjOVX3e"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216338,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMFMG2346935"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5QtB74eCS2YzHvEfSlh8MG",
+        "id": "5QtB74eCS2YzHvEfSlh8MG",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Hey Lil Mama",
+        "popularity": 85,
+        "preview_url": "https://p.scdn.co/mp3-preview/53e06eb92307813a4a1d4a904c43ede3842493fa?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5QtB74eCS2YzHvEfSlh8MG"
+    },
+    {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
+                    "id": "7ltDVBr6mKbRvohxheJ9h1",
+                    "name": "ROSALÍA",
+                    "type": "artist",
+                    "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+            },
+            "href": "https://api.spotify.com/v1/albums/50uChhk7AKkzDKytDixjYW",
+            "id": "50uChhk7AKkzDKytDixjYW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024d6cf0d0d5e32ca4fa3a59e1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514d6cf0d0d5e32ca4fa3a59e1",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "RR",
+            "release_date": "2023-03-24",
+            "release_date_precision": "day",
+            "total_tracks": 3,
+            "type": "album",
+            "uri": "spotify:album:50uChhk7AKkzDKytDixjYW"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                },
+                "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
+                "id": "7ltDVBr6mKbRvohxheJ9h1",
+                "name": "ROSALÍA",
+                "type": "artist",
+                "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 194543,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM12301258"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+        },
+        "href": "https://api.spotify.com/v1/tracks/609E1JCInJncactoMmkDon",
+        "id": "609E1JCInJncactoMmkDon",
+        "is_local": false,
+        "is_playable": true,
+        "name": "BESO",
+        "popularity": 84,
+        "preview_url": "https://p.scdn.co/mp3-preview/ec3accbe111dac19702411be5adb665d4cd44c0c?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:609E1JCInJncactoMmkDon"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+            },
+            "href": "https://api.spotify.com/v1/albums/6E7Awtyx6opYTbPXx6ApzB",
+            "id": "6E7Awtyx6opYTbPXx6ApzB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f79b1ab5cd74db6a2d7c1fda",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f79b1ab5cd74db6a2d7c1fda",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f79b1ab5cd74db6a2d7c1fda",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "PLAYA SATURNO",
+            "release_date": "2023-07-07",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:6E7Awtyx6opYTbPXx6ApzB"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+                },
+                "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+                "id": "716NhGYqD1jl2wI1Qkgq36",
+                "name": "Bizarrap",
+                "type": "artist",
+                "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222461,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USSD12300274"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/21N77gfWYoQDvrLvaeiQgi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/21N77gfWYoQDvrLvaeiQgi",
+        "id": "21N77gfWYoQDvrLvaeiQgi",
+        "is_local": false,
+        "is_playable": true,
+        "name": "BABY HELLO",
+        "popularity": 77,
+        "preview_url": "https://p.scdn.co/mp3-preview/561b48e3a4ed3c4c4d9fc3d12425198d31e98809?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:21N77gfWYoQDvrLvaeiQgi"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+            },
+            "href": "https://api.spotify.com/v1/albums/2Nt6MDJXfoxQ22tIQgWXIh",
+            "id": "2Nt6MDJXfoxQ22tIQgWXIh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d9525f27b0a9e25b1fa21230",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d9525f27b0a9e25b1fa21230",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d9525f27b0a9e25b1fa21230",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "VICE VERSA",
+            "release_date": "2021-12-10",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:2Nt6MDJXfoxQ22tIQgWXIh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+                },
+                "href": "https://api.spotify.com/v1/artists/37230BxxYs9ksS7OkZw3IU",
+                "id": "37230BxxYs9ksS7OkZw3IU",
+                "name": "Chencho Corleone",
+                "type": "artist",
+                "uri": "spotify:artist:37230BxxYs9ksS7OkZw3IU"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224996,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USSD12100779"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mmPpaltUZK7xjNlBPQQ0p",
+        "id": "6mmPpaltUZK7xjNlBPQQ0p",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Desesperados",
+        "popularity": 80,
+        "preview_url": "https://p.scdn.co/mp3-preview/e1c345a2f168b926696f449a7ca7c9e274c65721?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+            },
+            "href": "https://api.spotify.com/v1/albums/2Nt6MDJXfoxQ22tIQgWXIh",
+            "id": "2Nt6MDJXfoxQ22tIQgWXIh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d9525f27b0a9e25b1fa21230",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d9525f27b0a9e25b1fa21230",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d9525f27b0a9e25b1fa21230",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "VICE VERSA",
+            "release_date": "2021-12-10",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:2Nt6MDJXfoxQ22tIQgWXIh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199604,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USSD12100202"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3rdAz1fbUfZxYgaCviYhRo",
+        "id": "3rdAz1fbUfZxYgaCviYhRo",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Todo De Ti",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/c22200b1d15945f42242d40077ce0da4fc873be1?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3rdAz1fbUfZxYgaCviYhRo"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+            },
+            "href": "https://api.spotify.com/v1/albums/5AcRssiG0Zqu3lqYW7hMoM",
+            "id": "5AcRssiG0Zqu3lqYW7hMoM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27377ca8a929a08890cb6c8691c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0277ca8a929a08890cb6c8691c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485177ca8a929a08890cb6c8691c",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "SATURNO",
+            "release_date": "2023-01-24",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:5AcRssiG0Zqu3lqYW7hMoM"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Ts9of7VPZElwPQnqnDSfW",
+                "id": "1Ts9of7VPZElwPQnqnDSfW",
+                "name": "Lyanno",
+                "type": "artist",
+                "uri": "spotify:artist:1Ts9of7VPZElwPQnqnDSfW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+                },
+                "href": "https://api.spotify.com/v1/artists/1GKIlPFdcewHtpDVCQ8zmJ",
+                "id": "1GKIlPFdcewHtpDVCQ8zmJ",
+                "name": "Brray",
+                "type": "artist",
+                "uri": "spotify:artist:1GKIlPFdcewHtpDVCQ8zmJ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197101,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USSD12200700"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1aUq8rjW1EwkAkMri4VfJy",
+        "id": "1aUq8rjW1EwkAkMri4VfJy",
+        "is_local": false,
+        "is_playable": true,
+        "name": "LOKERA",
+        "popularity": 79,
+        "preview_url": "https://p.scdn.co/mp3-preview/813097c99aaf4f5dc8a62011118dc42e5423a9fd?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:1aUq8rjW1EwkAkMri4VfJy"
+    },
+    {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5FQ8tBUtIamA2hRtatrYUF",
+                    "id": "5FQ8tBUtIamA2hRtatrYUF",
+                    "name": "Marc Seguí",
+                    "type": "artist",
+                    "uri": "spotify:artist:5FQ8tBUtIamA2hRtatrYUF"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1aMt4A5jrQHxDYyC7rXgV0",
+                    "id": "1aMt4A5jrQHxDYyC7rXgV0",
+                    "name": "Pol Granch",
+                    "type": "artist",
+                    "uri": "spotify:artist:1aMt4A5jrQHxDYyC7rXgV0"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
+            },
+            "href": "https://api.spotify.com/v1/albums/2Ke07jWpOWaNVYpNMmXt7C",
+            "id": "2Ke07jWpOWaNVYpNMmXt7C",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735a048cbaa3385de9f723c699",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025a048cbaa3385de9f723c699",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515a048cbaa3385de9f723c699",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Tiroteo (Remix)",
+            "release_date": "2021-04-01",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:2Ke07jWpOWaNVYpNMmXt7C"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+                },
+                "href": "https://api.spotify.com/v1/artists/5FQ8tBUtIamA2hRtatrYUF",
+                "id": "5FQ8tBUtIamA2hRtatrYUF",
+                "name": "Marc Seguí",
+                "type": "artist",
+                "uri": "spotify:artist:5FQ8tBUtIamA2hRtatrYUF"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+                },
+                "href": "https://api.spotify.com/v1/artists/1aMt4A5jrQHxDYyC7rXgV0",
+                "id": "1aMt4A5jrQHxDYyC7rXgV0",
+                "name": "Pol Granch",
+                "type": "artist",
+                "uri": "spotify:artist:1aMt4A5jrQHxDYyC7rXgV0"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 321555,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USWL12100143"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4OwhwvKESFtuu06dTgct7i",
+        "id": "4OwhwvKESFtuu06dTgct7i",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tiroteo - Remix",
+        "popularity": 82,
+        "preview_url": "https://p.scdn.co/mp3-preview/93a840b4b0234a66c1f5e578abb758c44b1dda04?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                    "id": "4q3ewBCX7sLwd24euuV69X",
+                    "name": "Bad Bunny",
+                    "type": "artist",
+                    "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+            },
+            "href": "https://api.spotify.com/v1/albums/3RQQmkQEvNCY4prGKE6oc5",
+            "id": "3RQQmkQEvNCY4prGKE6oc5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Un Verano Sin Ti",
+            "release_date": "2022-05-06",
+            "release_date_precision": "day",
+            "total_tracks": 23,
+            "type": "album",
+            "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+                },
+                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "name": "Bad Bunny",
+                "type": "artist",
+                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227628,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "QM6MZ2214885"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4tYFy8ALRjIZvnvSLw5lxN",
+        "id": "4tYFy8ALRjIZvnvSLw5lxN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Party",
+        "popularity": 80,
+        "preview_url": "https://p.scdn.co/mp3-preview/c8d2983c0dbd872db6467308122c8c3652ae31c2?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                    "id": "0EmeFodog0BfCgMzAIvKQp",
+                    "name": "Shakira",
+                    "type": "artist",
+                    "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                    "id": "1mcTU81TzQhprhouKaTkpq",
+                    "name": "Rauw Alejandro",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+            },
+            "href": "https://api.spotify.com/v1/albums/6gQKAYf3TJM9sppw3AtbHH",
+            "id": "6gQKAYf3TJM9sppw3AtbHH",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029a9716c90ceeb1890921e44f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519a9716c90ceeb1890921e44f",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Te Felicito",
+            "release_date": "2022-04-21",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:6gQKAYf3TJM9sppw3AtbHH"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                },
+                "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                "id": "0EmeFodog0BfCgMzAIvKQp",
+                "name": "Shakira",
+                "type": "artist",
+                "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mcTU81TzQhprhouKaTkpq",
+                "id": "1mcTU81TzQhprhouKaTkpq",
+                "name": "Rauw Alejandro",
+                "type": "artist",
+                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 172235,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USQX92201764"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rurDawMfoKP4uHyb2kJBt",
+        "id": "2rurDawMfoKP4uHyb2kJBt",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Te Felicito",
+        "popularity": 80,
+        "preview_url": "https://p.scdn.co/mp3-preview/6b4b2be03b14bf758835c8f28f35834da35cc1c3?cid=636026c95e4a4866a375dff37b1d51ce",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2rurDawMfoKP4uHyb2kJBt"
+    }
+]
