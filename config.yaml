@@ -1,6 +1,6 @@
 redis:
-  host: redis-14104.c321.us-east-1-2.ec2.cloud.redislabs.com
+  host: 
   db: 0
   user: default
-  password: oTydog2wYdGHITMSQ8NaRyxzMInDhjry
+  password: 
   port: 14104
